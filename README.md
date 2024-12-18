@@ -1,6 +1,6 @@
 # generator-password
 
-A aplicação consiste em app mobile gerador de senhas forte, que utiliza de um algoritimo baseado em algarismos de 1-9, letras de a-z e A-Z para gerar tais.
+A aplicação consiste em app mobile gerador de senhas forte, que utiliza de um algoritimo baseado em algarismos de 1-9, letras de a-z e A-Z para gerar tais e armazena essas senhas criadas em storage.
 
 ## Layouts
 ![img2](https://github.com/user-attachments/assets/f514d3ed-c551-4be0-a0e9-fb6ae27b213b)
